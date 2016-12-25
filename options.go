@@ -49,7 +49,7 @@ const (
 
 var interpolations = map[Interpolator]string{
 	Lbb:      "lbb",
-	Vsqbs: 	  "Vsqbs",
+	Vsqbs:    "Vsqbs",
 	Nearest:  "nearest",
 	Bicubic:  "bicubic",
 	Bilinear: "bilinear",
